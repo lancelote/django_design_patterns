@@ -1,0 +1,6 @@
+Django
+django-environ
+django-braces
+django-crispy-forms
+django-admin-bootstrapped
+django-debug-toolbar
